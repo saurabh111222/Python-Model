@@ -1,2 +1,3 @@
 # Facies Classification
 ## The project focuses on log data interpretation and the development of machine learning & deep learning models for the log data from nine wells that have been labeled with a facies type based on observation of core.
+## In this project first, data interpretation, data preprocessing and data preparation were done on the given data from 9 wells labeled with facies using python libraries, and finally, machine learning models (DecesionTree and SVM Classifier) were developed, and hyperparameters were optimized. This project is basically based on the multiclass classification problem. 
